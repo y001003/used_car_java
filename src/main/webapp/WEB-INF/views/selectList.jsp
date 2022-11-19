@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-	<title>Home</title>
+<title>게시판 목록</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+	<h2>게시판 목록</h2>
 </body>
 </html>
